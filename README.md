@@ -1,6 +1,6 @@
 # adc-leaderboard
 
-automatic deploy from dev.0.4
+testing automatic deploy from dev.0.4
 
 ENVIRONNEMENT VARIABLES : 
 
